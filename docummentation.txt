@@ -1,1 +1,2 @@
-
+salut tues sur le fichier de docummentation , 
+cest un fichier pour comprendere git et sa strategie  
